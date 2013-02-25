@@ -1,0 +1,32 @@
+{
+	"name": "md4drive",
+	"version": "1.0.0",
+	"author": "Michael Diolosa <michael.diolosa@gmail.com>",
+	"description": "Markdown for Google Drive",
+	"contributors": [
+		{
+			"name": "Michael Diolosa",
+			"email": "michael.diolosa@gmail.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mbrio/md4drive.git"
+	},
+	"dependencies": {
+		"express": "3.x",
+		"coffee-script": "*",
+		"coffeelint": "*",
+		"grunt": "*",
+		"grunt-ghost": "*",
+		"grunt-coffeelint": "*",
+		"grunt-contrib-coffee": "*",
+		"grunt-contrib-watch": "*",
+		"grunt-contrib-jade": "*",
+		"testacular": "*"
+	},
+	"license": "All rights reserved",
+	"engines": {
+		"node": ">=0.8.19"
+	}
+}

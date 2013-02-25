@@ -1,0 +1,8 @@
+# Ignore junk files
+.DS_Store
+Thumbs.db
+._*
+
+node_modules
+components
+public
